@@ -1,0 +1,7 @@
+node_modules
+coverage
+dist
+typings
+out
+.idea/
+npm-debug.*

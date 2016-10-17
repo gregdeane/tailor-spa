@@ -1,0 +1,12 @@
+@import "main";
+
+input {
+  max-width: 15rem;
+}
+
+.search-component {
+  .search-result {
+    width: 15rem;
+    cursor: pointer;
+  }
+}
